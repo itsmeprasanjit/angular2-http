@@ -1,0 +1,16 @@
+{
+  "jspm": {
+    "directories": {
+      "baseURL": "jspm"
+    },
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-alpha.37",
+      "es6-shim": "github:es-shims/es6-shim@^0.33.3",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.1",
+      "zone.js": "npm:zone.js@^0.5.4"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.0-dev.20150818"
+    }
+  }
+}
